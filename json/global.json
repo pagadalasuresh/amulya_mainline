@@ -1,0 +1,186 @@
+{
+"menus":[
+{
+"menuName":"Home",
+"url": "home.html",
+"submenu":[
+		{
+		"sub_menu":"Home",
+		"url": "index1.html"
+		},
+		{
+		"sub_menu":"Services",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"Contact Us",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"About Us",
+		"url": "index.html"
+		}
+		
+		]
+},
+{
+"menuName":"Services",
+"url": "services.html",
+"submenu":[
+{
+		"sub_menu":"Home",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"Services",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"Contact Us",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"About Us",
+		"url": "index.html"
+		}
+		]
+
+},
+{
+"menuName":"Contact Us",
+"url": "contact_us.html",
+"submenu":[
+		{
+		"sub_menu":"Home",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"Services",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"Contact Us",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"About Us",
+		"url": "index.html"
+		}]
+},
+{
+"menuName":"Careers",
+"url": "careers.html",
+"submenu":[
+		{
+		"sub_menu":"Home",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"Services",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"Contact Us",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"About Us",
+		"url": "index.html"
+		}
+]
+},
+{
+"menuName":"About Us",
+"url": "about_us.html",
+"submenu":[
+		{
+		"sub_menu":"Home",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"Services",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"Contact Us",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"About Us",
+		"url": "index.html"
+		}
+]
+},
+{
+"menuName":"Locations",
+"url": "locations.html",
+"submenu":[
+		{
+		"sub_menu":"Home",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"Services",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"Contact Us",
+		"url": "index.html"
+		},
+		{
+		"sub_menu":"About Us",
+		"url": "index.html"
+		}
+]
+}
+],
+"countries":[
+{
+"country_list":"United States of America"
+},
+{
+"country_list":"India"
+},
+{
+"country_list":"China"
+},
+{
+"country_list":"WorldWide"
+},
+{
+"country_list":"China"
+},
+{
+"country_list":"China"
+},
+{
+"country_list":"China"
+}
+],
+"tabs":[
+{
+"tabname":"Tab1",
+"txt":"content1:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nibh urna, euismod ut ornare non, volutpat vel tortor. Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis urna gravida mollis.",
+"img":"images/router.png",
+"tabIndex":"1"
+},
+{
+"tabname":"Tab2",
+"txt":"content2:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nibh urna, euismod ut ornare non, volutpat vel tortor. Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis urna gravida mollis.",
+"img":"images/security.png",
+"tabIndex":"2"
+},
+{
+"tabname":"Tab3",
+"txt":"content3:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nibh urna, euismod ut ornare non, volutpat vel tortor. Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis urna gravida mollis.",
+"img":"images/access_point.png",
+"tabIndex":"3"
+},
+{
+"tabname":"Tab4",
+"txt":"content4:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nibh urna, euismod ut ornare non, volutpat vel tortor. Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis urna gravida mollis.",
+"img":"images/network.png",
+"tabIndex":"4"
+}
+]
+}
